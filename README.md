@@ -8,3 +8,4 @@
 
 Apart from pinned projects I also need/use:
 - [Mac workstation setup](https://github.com/tot-ra/mac-work)
+- [Ubuntu server setup](https://github.com/tot-ra/ubuntu-work)
