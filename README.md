@@ -7,5 +7,4 @@
 - Historically my programming path was: PHP → JS → (Typescript + GraphQL) → Go + Python
 
 Apart from pinned projects I also need/use:
-- [Mac workstation setup](https://github.com/tot-ra/mac-work)
-- [Ubuntu server setup](https://github.com/tot-ra/ubuntu-work)
+- [Mac workstation setup](https://github.com/tot-ra/workstation)
