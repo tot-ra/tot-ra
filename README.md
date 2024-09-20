@@ -1,8 +1,6 @@
 ## Hi there 👋
-
-- 🔭 I’m currently working on machine learning to detect bees
-- 🌱 I’m currently learning vector databases, video streaming and object detection
-- 🤔 I’m looking for help with electrical engineering, robotics, UX, design on my startup [@gratheon](https://github.com/Gratheon/web-app) project
+- 🔭 I'm learning ML and video processing to detect bees for my startup [@gratheon](https://github.com/Gratheon/web-app) project
+- 🤔 I’m looking for help with electrical engineering, robotics, UX, design
 
 
 ### History
