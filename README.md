@@ -6,7 +6,14 @@
 
 
 ### History
-My programming path was: Delphi -> PHP (+jquery, angular) → Node (+react, typescript) → GraphQL → Go + Python
+My stack path: 
+
+- Student years: Delphi / Java
+- PHP (jquery, protojs, angular) + MySQL + Nginx + Vagrant
+- Node (+react, typescript) + Go + GraphQL + Docker
+- Go + Postgres + Python + Node (preact) + K8S
+
+
 
 I did some throw-away home coding assignments back in the days:
 - https://github.com/tot-ra/sandbox-open-time-json
