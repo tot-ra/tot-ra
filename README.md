@@ -3,13 +3,14 @@
 - 🤔 I’m looking for help with electrical engineering, robotics, UX, design
 
 
-### History
-My stack path: 
+### My stack history
 
-- Student years: Delphi / Java
-- PHP (jquery, protojs, angular) + MySQL + Nginx + Vagrant
-- Node (+react, typescript) + Go + GraphQL + Docker
-- Go + Postgres + Python + Node (preact) + K8S
+| Age | BE | FE | QA |
+|--|--|--|--|
+| Childhood / Student years | QBasic -> C -> Delphi -> Java |
+| 20ies |  PHP + MySQL + Nginx + Vagrant | jquery, protojs, angular, backbone | phpunit, kohana, protractor, selenium |
+| 30es | Node + Go + GraphQL + Docker | backbone, react, typescript | mocha, jest |
+| Nowdays | Go + Postgres + Python + Node (preact) + K8S | preact, typescript | gotest, jest |
 
 
 
