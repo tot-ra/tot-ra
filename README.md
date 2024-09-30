@@ -8,7 +8,7 @@ I have a startup [@gratheon](https://github.com/Gratheon/web-app) 🐝 project. 
 | Age | BE | FE | Domain |
 |--|--|--|--|
 | Childhood / Student years | QBasic -> C -> Delphi -> Java | | |
-| 20ies |  PHP + MySQL + Nginx + Vagrant | jquery, protojs, angular, backbone | CMS, CRMs, web-crawlers |
+| 20ies |  PHP + MySQL + Nginx + Vagrant | jquery, protojs, angular, backbone | CMS, CRMs |
 | 30es | Node + Go + GraphQL + Docker | backbone, react, typescript | single-product |
 | Nowdays | Go + Postgres + Python + Node (preact) + K8S | preact, typescript | AI & robots |
 
