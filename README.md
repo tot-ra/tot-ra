@@ -1,16 +1,16 @@
-## Hi there 👋
-- 🔭 I'm learning ML and video processing to detect bees for my startup [@gratheon](https://github.com/Gratheon/web-app) project
-- 🤔 I’m looking for help with electrical engineering, robotics, UX, design
+## Hi, I'm Artjom 👋
+I'm a software engineer. My focus is on a full-stack product development, leaning towards 🔭 ML, video processing and robotics 🤖.
+I have a startup [@gratheon](https://github.com/Gratheon/web-app) 🐝 project. It needs help with electrical engineering, robotics, UX, design.
 
 
-### My stack history
+### My history
 
-| Age | BE | FE | QA |
+| Age | BE | FE | Domain |
 |--|--|--|--|
-| Childhood / Student years | QBasic -> C -> Delphi -> Java |
-| 20ies |  PHP + MySQL + Nginx + Vagrant | jquery, protojs, angular, backbone | phpunit, kohana, protractor, selenium |
-| 30es | Node + Go + GraphQL + Docker | backbone, react, typescript | mocha, jest |
-| Nowdays | Go + Postgres + Python + Node (preact) + K8S | preact, typescript | gotest, jest |
+| Childhood / Student years | QBasic -> C -> Delphi -> Java | | |
+| 20ies |  PHP + MySQL + Nginx + Vagrant | jquery, protojs, angular, backbone | CMS, CRMs, web-crawlers |
+| 30es | Node + Go + GraphQL + Docker | backbone, react, typescript | single-product |
+| Nowdays | Go + Postgres + Python + Node (preact) + K8S | preact, typescript | AI & robots |
 
 
 
