@@ -17,3 +17,5 @@ In english
 - Доклады
 	- [Пчелы и AI](rus/about/доклады/Пчелы%20и%20AI.md)
 	- [Scaling GraphQL subscriptions](rus/about/доклады/Scaling%20GraphQL%20subscriptions.md)
+- Backend
+	- [Dashboard на основе Grafana и InfluxDB](rus/tech/backend/Dashboard%20на%20основе%20Grafana%20и%20InfluxDB.md)
