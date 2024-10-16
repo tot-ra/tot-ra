@@ -6,7 +6,7 @@ I have a startup [@gratheon](https://github.com/Gratheon/web-app) 🐝 project. 
 
 This is a blog
 
-[[Об авторе]]
+[Об авторе](rus/about/Об%20авторе.md)
 [[Опыт работы]]
 [[Пчелы и AI]]
 [[Scaling GraphQL subscriptions]]
