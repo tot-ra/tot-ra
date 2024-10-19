@@ -4,11 +4,11 @@
 
 Кроме минимализма, ускоренности и CSS-селекторов библиотека мало чем по функциональности отличается от prototype, mootools. Она не расширяет родные JS-объекты, как это делает protype и существует в своём пространстве переменных, поэтому не конфликтует с другими библиотеками
 
-![](img/Pasted%20image%2020241016182436.png)
+![](../img/Pasted%20image%2020241016182436.png)
 
-![](img/Pasted%20image%2020241016182447.png)
+![](../img/Pasted%20image%2020241016182447.png)
 
-![](img/Pasted%20image%2020241016182456.png)
+![](../img/Pasted%20image%2020241016182456.png)
 
 ### Примеры
 
@@ -95,6 +95,6 @@ this.update=CommentControl.Read(ID); //ссылка на }
 - [Перевод статьи Getting Startded with jQuery](http://ouch.kiev.ua/2007-04-17/1299.html)
 - [Эффекты jQuery](http://www.linkexchanger.su/2008/61.html)
 
-![](img/Pasted%20image%2020241016182535.png)
+![](../img/Pasted%20image%2020241016182535.png)
 
 <iframe width="934" height="350" src="https://www.youtube.com/embed/8mwKq7_JlS8" title="jQuery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -21,4 +21,4 @@ $.when(Model1.fetch(), Model2.fetch(), Model3.fetch(), Model4.fetch(), Model5.fe
 );
 ```
 
-![](img/Pasted%20image%2020241016183133.png)
+![](../img/Pasted%20image%2020241016183133.png)

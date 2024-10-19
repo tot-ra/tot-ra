@@ -42,9 +42,9 @@ function ContextMenu(e,ID){
 }
 ```
 
-![](img/Pasted%20image%2020241016183346.png)
+![](../img/Pasted%20image%2020241016183346.png)
 
-![](img/Pasted%20image%2020241016183353.png)
+![](../img/Pasted%20image%2020241016183353.png)
 
 Интересные статьи по этой теме:
 
