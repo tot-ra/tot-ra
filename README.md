@@ -14,6 +14,8 @@ It needs help with electrical engineering, robotics, UX, design.
 - ∿ [Scaling GraphQL subscriptions](rus/about/доклады/Scaling%20GraphQL%20subscriptions.md)
 - ⭐️ [Journey to a Federated GraphQL](eng/Journey%20to%20a%20Federated%20GraphQL.md)
 - 🐝 [Пчелы и AI](rus/about/доклады/Пчелы%20и%20AI.md)
+- 🧛🏻‍♀️ [Кто такой социопат](rus/psychology/Кто%20такой%20социопат.md)
+- [Радикальная честность](rus/psychology/Радикальная%20честность.md)
 
 ### Last attended events
 - [2024-10-18 AsuurKeraamika](eng/events/2024-10-18%20AsuurKeraamika.md)
