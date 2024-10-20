@@ -24,3 +24,5 @@ Scrum - одна из методик гибкой разработки прог�
 
 <iframe width="467" height="260" src="https://www.youtube.com/embed/nIVtnVINPkE" title="Проясняем, что такое Scrum и  Kanban путем их сравнения" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+![](img/86.pdf)

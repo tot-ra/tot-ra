@@ -201,3 +201,5 @@ _Exception in thread "main" java.lang.ArithmeticException: / by zero_
 Читайте также:
 
 - [Java syntax](http://en.wikipedia.org/wiki/Java_syntax)
+
+![](img/94.pdf)

@@ -55,3 +55,6 @@
 - [Сервис на Jboss 4.2](http://www.engine4business.ru/jboss-servlet-article.html)
 - [The components of JMS](http://www.informit.com/articles/article.aspx?p=26270&seqNum=8)
 - [Простая отправка сообщения с JMS](http://arhipov.blogspot.com/2009/10/my-complains-to-jms.html)
+
+
+![](../../integration/img/82.pdf)

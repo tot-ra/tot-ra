@@ -124,3 +124,12 @@ dsiglite2.cab это альтернатива для создания подп�
 Ваш покорный слуга на время написания статьи нашёл мега-баг в том листочке что генерирует Digidoc Client - там OCSP responce hash всегда одинаковый. Кроме того я бы добавил хеши самих документов для печати, иначе слишком много зависимости от памяти SK. Ну и в подарок - метод hex2bin  
 
         `function hex2bin($data) {               $len = strlen($data);               for($i=0;$i<$len;$i+=2) {               $newdata .= pack("C",hexdec(substr($data,$i,2)));               }               return $newdata;           }`
+
+![](img/177.pdf)
+
+
+![](img/172.pdf)
+
+![](img/173.pdf)
+
+![](img/174.pdf)

@@ -37,3 +37,6 @@
 См также [redmassacre](http://redmassacre.livejournal.com/127465.html), [форум](http://www.ai-contest.com/forum/viewtopic.php?f=17&t=593), [galcon форум](http://www.galcon.com/forums/14/17/3629/?cur=0), [tcp server](http://www.benzedrine.cx/planetwars/).
 
 ![](img/Pasted%20image%2020241020023207.png)
+
+
+![](img/208.pdf)

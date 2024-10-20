@@ -130,3 +130,5 @@ else{} //failure
 - [среда для тестирования](https://www.pangalink.net/)   
     
 - [хорошо структурированная библиотека](http://banklink.inoryy.com/#examples) на php от Романа
+![](img/61.pdf)
+![](img/60.pdf)
