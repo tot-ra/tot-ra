@@ -1,6 +1,7 @@
 ---
 layout: home
 ---
+
 ## Hi, I'm Artjom 👋
 
 I'm a software engineer. My focus is on a full-stack product development, leaning towards 🔭 ML, video processing and robotics 🤖. 
