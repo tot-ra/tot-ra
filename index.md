@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: homepage
 ---
 ## Hi, I'm Artjom 👋
 
