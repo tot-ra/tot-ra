@@ -1,3 +1,6 @@
+---
+layout: page
+---
 
 ![https://miro.medium.com/max/1400/1*Rvb94EOQA-BzsmYJ4TklGg.jpeg](https://miro.medium.com/max/1400/1*Rvb94EOQA-BzsmYJ4TklGg.jpeg)
 

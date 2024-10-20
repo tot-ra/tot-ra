@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 воскресенье, 7 января 2024 г. в 21:10:22
 https://www.youtube.com/watch?v=f6splQuiLkY
 

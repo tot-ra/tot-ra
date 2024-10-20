@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 вторник, 20 декабря 2022 г. в 15:56:48
 
 https://youtu.be/MJ9nVznZ-cM

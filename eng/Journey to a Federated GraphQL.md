@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 ![https://miro.medium.com/max/1400/1*6ADAF1r2LFunXgdklnMRzw.png](https://miro.medium.com/max/1400/1*6ADAF1r2LFunXgdklnMRzw.png)
 
 Image taken from [dgraph.io](http://dgraph.io)
