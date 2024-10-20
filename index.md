@@ -12,6 +12,16 @@ My [workstation setup](https://github.com/tot-ra/workstation) is documented too.
 I have a startup-like project [@gratheon](https://github.com/Gratheon/web-app) 🐝. 
 It needs help with electrical engineering, robotics, UX, design.
 
+## Latest posts
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 ## Cherished posts
 - ⭐️ [Dream of scalable & enriched graphql-subscriptions](eng/Dream%20of%20scalable%20&%20enriched%20graphql-subscriptions.md)
 - ∿ [Scaling GraphQL subscriptions](rus/about/доклады/Scaling%20GraphQL%20subscriptions.md)
@@ -22,7 +32,7 @@ It needs help with electrical engineering, robotics, UX, design.
 - 🌞 [Радикальная честность](rus/psychology/Радикальная%20честность.md)
 - 👾 [Cosmic Encounter](rus/gaming/Cosmic%20Encounter.md)
 
-### Last attended events
+## Last attended events
 - [2024-10-18 AsuurKeraamika](eng/events/2024-10-18%20AsuurKeraamika.md)
 - [2024-10-12 Katana meetup](eng/events/2024-10-12%20Katana%20meetup.md)
 - [2024-10-04 Pipedrive meetup](eng/events/2024-10-04%20Pipedrive%20meetup.md)
