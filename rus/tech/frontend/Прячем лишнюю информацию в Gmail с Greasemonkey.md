@@ -6,13 +6,26 @@
 
 Мне вот надоело что в GMail постоянно показывается блок текста со всякой статистикой и ссылками - поставил Greasemonkey, нашёл XPath адрес этого блока с firebug, добавил его устранение, обернул в таймаут для загрузки страницы и вуаля.. чистота.
 
-```
+Это элементарный пример (проще только по ID элемент найти) скриптов, огромное количество которых можно найти на [userscripts.org](http://userscripts.org/)
+
+```js
+// ==UserScript==
+// @author	   Artjom Kurapov <artkurapov@gmail.com>
+// @name           gmail_modifier
+// @namespace      gmail_modifier
+// @include        https://mail.google.com/mail/?shva=1#inbox
+// ==/UserScript==
+
+var aWindow = (typeof unsafeWindow != 'undefined')? unsafeWindow: window;
+
+aWindow.setTimeout(function(){
+
 var xpathResult = window.frames[3].document.evaluate('/html/body/div/div[2]/div/div[2]/div/div[2]/div[2]', window.frames[3].document, null, XPathResult.ORDERED_NODE_SNAPSHOT_TYPE, null);
 
-for (var i=0; i < xpathResult.snapshotLength; i++) {
+for (var i=0; i<xpathResult.snapshotLength; i++) {
     var nodeToHide = xpathResult.snapshotItem(i);
     nodeToHide.style.display='none';
 }
-```
 
-Это элементарный пример (проще только по ID элемент найти) скриптов, огромное количество которых можно найти на [userscripts.org](http://userscripts.org/)
+},6000);
+```
