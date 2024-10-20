@@ -1,0 +1,1 @@
+![](117.ppt)![](bsc-work.pdf)
