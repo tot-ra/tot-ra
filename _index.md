@@ -19,7 +19,7 @@ It needs help with electrical engineering, robotics, UX, design.
 - 🪵 [Умный дом — отопление с пеллетным котлом](rus/tech/devices/Умный%20дом%20—%20отопление%20с%20пеллетным%20котлом.md)
 - 🧛🏻‍♀️ [Кто такой социопат](rus/psychology/Кто%20такой%20социопат.md)
 - 🌞 [Радикальная честность](rus/psychology/Радикальная%20честность.md)
-- 👾 [Cosmic Encounter](rus/gaming/Cosmic%20Encounter.md)
+- 👾 [Cosmic Encounter](rus/gaming/board-games/Cosmic%20Encounter.md)
 
 ### Last attended events
 - [2024-10-18 AsuurKeraamika](eng/events/2024-10-18%20AsuurKeraamika.md)

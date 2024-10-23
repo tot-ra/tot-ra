@@ -4,7 +4,7 @@
 
 Игра бесплатна, живёт на продаже скинов, постоянно обновляется и получает новых персонажей. Весит в районе 600 мб + апдейты (300 мб), крутится на adobe air + directx с чем-то. Есть неоффицальный [клиент для мака](http://boompje.net/forum/index.php?action=downloads) на основе wine.
 
-![](img/Untitled-1.jpg)
+![](img/Untitled-1%201.jpg)
 
 ![](img/LoL.jpg)
 
