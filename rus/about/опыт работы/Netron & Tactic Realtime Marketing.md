@@ -1,3 +1,11 @@
+---
+id: Netron & Tactic Realtime Marketing
+aliases: []
+tags: []
+---
+
+## Netron & Tactic Realtime Marketing
+
 среда, 11 февраля 2015 г. в 00:18:20
 
 В креативном агентстве Netron я целиком занимаюсь проектом Tactic Realtime, который упрощает управление рекламой в реальном времени. Tactic вырос в самостоятельный продукт и компанию, которую потом купили.

@@ -1,3 +1,9 @@
+---
+id: Pipedrive
+aliases: []
+tags: []
+---
+
 Engineering Platform
 ▪ Mission lead of GraphQL subscriptions mission (~4 developers × 3 months)  
 ▪ Launchpad lead of (high-load) core services team (cross-team comms, reviews, backlog grooming, on-call; ~12 developers × 6 months)  

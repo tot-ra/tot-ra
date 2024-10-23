@@ -1,6 +1,5 @@
 ---
 id: Cosmic Encounter
-layout: page
 aliases: []
 tags: []
 ---

@@ -1,3 +1,10 @@
+---
+id: Mikare
+aliases: []
+tags: []
+---
+
+## Mikare
 среда, 30 октября 2013 г. в 22:47:09
 
 [](http://mikare.net/)[![Mikare baltic](https://s3-eu-west-1.amazonaws.com/kurapov/image/5ac1121ddf72/original/mikare_160.gif)](https://s3-eu-west-1.amazonaws.com/kurapov/image/5ac1121ddf72/original/mikare_160.gif "Mikare baltic")

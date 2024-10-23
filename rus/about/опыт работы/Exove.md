@@ -1,3 +1,11 @@
+---
+id: Exove
+aliases: []
+tags: []
+---
+
+## Exove
+
 среда, 30 октября 2013 г. в 22:39:35
 [![Exove](https://s3-eu-west-1.amazonaws.com/kurapov/image/f3944c3d7486/original/Screen+Shot+2012-01-31+at+18.06.07.png)](https://s3-eu-west-1.amazonaws.com/kurapov/image/f3944c3d7486/original/Screen+Shot+2012-01-31+at+18.06.07.png "Exove")
 

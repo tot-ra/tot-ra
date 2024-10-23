@@ -1,9 +1,0 @@
-theme: jekyll-theme-minimal
-title: Artjom Kurapov blog
-description: Bookmark this to keep an eye on my project updates!
-theme: minima
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled:     true
-  collections: true

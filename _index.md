@@ -1,19 +1,21 @@
 ## Hi, I'm Artjom 👋
 
+
 I'm a software engineer. My focus is on a full-stack product development, leaning towards 🔭 ML, video processing and robotics 🤖. 
 
 I'm practicing second-brain type of note taking.
 This repository is also a public snapshot of it, like a blog.
 My [workstation setup](https://github.com/tot-ra/workstation) is documented too.
 
+
 I have a startup-like project [@gratheon](https://github.com/Gratheon/web-app) 🐝. 
 It needs help with electrical engineering, robotics, UX, design.
 
 ## Cherished posts
 - ⭐️ [Dream of scalable & enriched graphql-subscriptions](eng/Dream%20of%20scalable%20&%20enriched%20graphql-subscriptions.md)
-- ∿ [Scaling GraphQL subscriptions](rus/about/доклады/Scaling%20GraphQL%20subscriptions.md)
+- ∿ [Scaling GraphQL subscriptions](rus/доклады/Scaling%20GraphQL%20subscriptions.md)
 - ⭐️ [Journey to a Federated GraphQL](eng/Journey%20to%20a%20Federated%20GraphQL.md) / [Путь к Федеративному GraphQL](rus/tech/backend/Путь%20к%20Федеративному%20GraphQL.md)
-- 🐝 [Пчелы и AI](rus/about/доклады/Пчелы%20и%20AI.md)
+- 🐝 [Пчелы и AI](rus/доклады/Пчелы%20и%20AI.md)
 - 🪵 [Умный дом — отопление с пеллетным котлом](rus/tech/devices/Умный%20дом%20—%20отопление%20с%20пеллетным%20котлом.md)
 - 🧛🏻‍♀️ [Кто такой социопат](rus/psychology/Кто%20такой%20социопат.md)
 - 🌞 [Радикальная честность](rus/psychology/Радикальная%20честность.md)
