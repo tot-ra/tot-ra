@@ -8,4 +8,4 @@ I'm interested in ML, video processing and robotics 🤖.
 - Some of those thoughts are published on [youtube](https://www.youtube.com/user/artkurapov)
 
 Also I'm a founder of [Gratheon](https://gratheon.com) 🐝.
-It needs yout help with electrical engineering, robotics, UX, design.
+It needs your help with electrical engineering, robotics, UX, design.
