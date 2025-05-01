@@ -7,5 +7,7 @@ I'm interested in ML, video processing and robotics 🤖.
 - Public thoughts are published in [my blog](https://kurapov.ee/)
 - Some of those thoughts are published on [youtube](https://www.youtube.com/user/artkurapov)
 
+Check out my [vector db](https://github.com/tot-ra/vector-bible) benchmarks
+
 Also I'm a founder of [Gratheon](https://gratheon.com) 🐝.
 It needs your help with electrical engineering, robotics, UX, design.
