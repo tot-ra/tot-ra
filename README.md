@@ -4,7 +4,7 @@ I'm a full-stack software engineer. My focus is product development.
 I'm interested in architecture, image and video processing, ML, agentic AI and robotics 🤖. 
 
 - Building 🐝 [Gratheon](https://gratheon.com), a digital beekeeping app and hardware to save the bees (do join)
-- Designing 🎮 [RPG game](https://github.com/tot-ra/rebel-reval) in medieval setting 🏰
+- Designing 🏰 [RPG game](https://github.com/tot-ra/rebel-reval) in medieval setting
 - Composing music with AI
 - Practicing second-brain note taking with Obsidian
   - Public thoughts are published in [my blog](https://kurapov.ee/)
