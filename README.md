@@ -3,7 +3,7 @@
 I'm a full-stack software engineer. My focus is product development.
 I'm interested in architecture, image and video processing, ML, agentic AI and robotics 🤖. 
 
-- Building 💻[Workstation](https://github.com/tot-ra/workstation) - an agentic OS setup with opencode/neovim/tmux under the hood
+- Building 💻[Workstation](https://github.com/tot-ra/workstation) - an personalized agentic OS setup with opencode/neovim/tmux under the hood
 - Building 🐝 [Gratheon](https://gratheon.com) - a beehive data analytics app (and a modular beehive to save the bees)
 - Designing 🏰 [RPG game](https://github.com/tot-ra/rebel-reval) in medieval setting
 - Composing music with AI
